@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>nori.png</file>
+        <file>shoyu-ramen.png</file>
+        <file>chashu.png</file>
+        <file>shio-ramen.png</file>
+    </qresource>
+</RCC>
